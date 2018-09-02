@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Connie_Halloween</string>
+
+
+
+    <string name="when">
+        When is Halloween?
+    </string>
+
+
+    <string name="subwhen">
+        Halloween is an annual holiday celebrated each year on October 31.
+    </string>
+
+
+
+
+    <string name="why">
+        Why so we have halloween?
+    </string>
+
+
+    <string name="subwhy">
+        At ancient Celtic festival of Samhain, people would light bonfires and wear costumes to ward off ghosts.
+    </string>
+
+
+
+    <string name="what">
+        What do we do?
+    </string>
+
+
+    <string name="subwhat">
+        trick-or-treat, carve jack-o-lanterns, gatherings, costumes, eating sweet
+    </string>
+
+
+    <string name="click">
+        Click me! Click me! \nI am on the right\nI am Trick or Treat
+
+    </string>
+
+
+
+</resources>
